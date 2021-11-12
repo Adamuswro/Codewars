@@ -1,6 +1,7 @@
 ﻿using System;
+using KataSolutions;
 
-namespace KataSolutions
+namespace ConsoleApp
 {
     class Program
     {
