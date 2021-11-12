@@ -1,9 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using CodeWarsSolutions;
+using KataSolutions;
 
 namespace Console
 {
@@ -11,7 +6,7 @@ namespace Console
     {
         static void Main(string[] args)
         {
-            var game = new SnakesLadders();
+            var game = new kyu5_Snakes_and_Ladders();
 
             do
             {

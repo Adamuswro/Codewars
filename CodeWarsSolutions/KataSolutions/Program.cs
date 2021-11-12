@@ -1,12 +1,12 @@
-using System;
+﻿using System;
 
-namespace CodeWarsSolutions
+namespace KataSolutions
 {
     class Program
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("Hello World!");
         }
     }
 }
